@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953280088957",
+    "firebase_url": "https://groupfit-445bb.firebaseio.com",
+    "project_id": "groupfit-445bb",
+    "storage_bucket": "groupfit-445bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953280088957:android:10f6b75b25308317ac5a14",
+        "android_client_info": {
+          "package_name": "com.example.groupfitnuevo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953280088957-ubmqmkh9jbklsod1jhsql3pgril0fbu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9TGQExUWfjWIaaBQOq-Wp69Dovw1vRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953280088957-ubmqmkh9jbklsod1jhsql3pgril0fbu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

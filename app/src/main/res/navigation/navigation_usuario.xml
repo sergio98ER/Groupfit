@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.groupfitnuevo.ui.misejercicios.MisEjerciciosFragment"
+        android:label="@string/menu_mis_ejercicios"
+        tools:layout="@layout/ejercicios_usuario" >
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.example.groupfitnuevo.ui.misejercicios.MisEjerciciosFragment"
+        android:label="@string/home_second"
+        tools:layout="@layout/fragment_second">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.groupfitnuevo.ui.perfil_usuario.perfilfragment"
+        android:label="@string/menu_usuario_perfil"
+        tools:layout="@layout/perfil" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.groupfitnuevo.ui.informacionentrenador.InformacionEntrenadorFragment"
+        android:label="@string/menu_entrenador"
+        tools:layout="@layout/about_page" />
+</navigation>

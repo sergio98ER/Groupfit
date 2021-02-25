@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">GroupFit</string>
+    <string name="Email">Email</string>
+    <string name="Contrasena">Contraseña</string>
+    <string name="Recordardatos">Recordarme</string>
+    <string name="Cuenta">¿No tiene cuenta?</string>
+    <string name="registrarse">Registrese</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="Verificar">Repetir Contraseña</string>
+    <string name="SiCuenta">¿Tiene ya cuenta?</string>
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="ingrese">Registrarse</string>
+    <string name="title_activity_post_iniciosesion_registro">PostIniciosesion_registro</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Correo">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="eliminarcuenta">Eliminar</string>
+
+    <string name="ingresar">Ingrese la cuenta de correo electrónico</string>
+    <string name="enviar_recuperacion_pass">Recuperar</string>
+
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="dni">Dni</string>
+
+    <string name="rutina">Rutina actual</string>
+    <string name="objetivo">Objetivo</string>
+    <string name="estadoforma">Estado forma</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+
+    <string name="menu_mis_ejercicios">Ejercicios</string>
+    <string name="menu_usuario_perfil">Perfil</string>
+    <string name="menu_entrenador">Entrenador</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="title_activity_editar_perfil_usuario">Editar perfil</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string-array name="objetivos">
+        <item>Pérdida de peso</item>
+        <item>Ganancia de masa muscular</item>
+        <item>Tonificar cuerpo</item>
+        <item>Ganancia de fuerza</item>
+        <item>Ganancia de resistencia</item>
+        <item>Hipertrofia</item>
+    </string-array>
+
+
+    <string name="DescripcionEjercicio">¡Hola, bienvenido a mi perfil!</string>
+    <string name="Descricpion_PMDM">Me llamo Sergio Enciso soy entrenador personal y esta es mi aplicación para dirigir usuarios, con diferentes entrenamientos y monitorizando su estado físico y objetivos de una manera más comoda.</string>
+
+    <string name="ContactaConmigo">¡Contacta conmigo!</string>
+    <string name="EnviameUnEmail">¡Enviame un Email!</string>
+    <string name="email">sergio.enciso@itponiente.com</string>
+    <string name="web">https://itponiente.com/?page_id=336</string>
+    <string name="VIsitar">¡Visita mi web!</string>
+    <string name="twitter_git">Sergio98ER</string>
+    <string name="facebook">Petunio Galindez</string>
+
+    <string name="visitarfacebook">¡Visita mi Facebook!</string>
+    <string name="visitartwitter">¡Visita mi Twitter!</string>
+    <string name="copyright">© Copyright Sergio Enciso Ruiz © 2020</string>
+
+    <string name="solicitar_entreno">¡Necesito un entrenamiento!</string>
+
+    <string name="historial_meses"> Peso últimos  meses. </string>
+
+    <string name="Dominadas">Número máximo dominadas</string>
+    <string name="PressBanca">Press banca 1RM</string>
+    <string name="MinTiempo">Mínimo tiempo en recorrer 1 kilómetro.</string>
+    <string name="minutos">Minutos</string>
+    <string name="segundos">Segundos</string>
+    <string name="Dni">DNI</string>
+
+    <string name="nivel">Los siguientes datos determinaran su estado de forma (Baja forma, normal , buena forma, atleta)</string>
+    <string name="title_activity_postlogin_entrenador">postlogin_entrenador</string>
+
+    <string name="telefono">Teléfono</string>
+    <string name="descripcion">Descripción</string>
+
+    <string name="menu_home">Perfil: Entrenador</string>
+    <string name="menu_gallery">Grupos</string>
+    <string name="menu_slideshow">Rutina</string>
+    <string name="title_activity_postinicioentrenador">postinicioentrenador</string>
+
+    <string name="pestanaedit_entrenador">Bienvenido a la pestaña de edición de perfil.</string>
+    <string name="nuevo_grupo">Crear grupo nuevo</string>
+    <string name="nombre_grupo">Nombre grupo:</string>
+    <string name="descripcion_grupo">Descripcion grupo:</string>
+
+    <string name="eliminargrupo">Eliminar Grupo</string>
+    <string name="editargrupo">Editar Grupo</string>
+
+    <string name="numero_usuarios">Lista usuarios</string>
+    <string name="entrenadores">Numero entrenadores</string>
+    <string name="bajaforma">Baja forma</string>
+    <string name="normal">Normal</string>
+    <string name="buenaforma">Buena forma</string>
+    <string name="atleta">Atleta</string>
+
+    <string-array name="niveles">
+        <item>Baja forma</item>
+        <item>Normal</item>
+        <item>Buena forma</item>
+        <item>Atleta</item>
+    </string-array>
+
+</resources>
